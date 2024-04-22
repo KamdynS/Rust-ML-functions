@@ -8,3 +8,6 @@ The primary goal of this repository is educational. The functions are implemente
 
 ## Contributions
 Feel free to contribute as you would like! If you have any suggestions or improvements, please submit a pull request.
+
+## Future Plans
+I'm hoping to go back through Elements of Statistical Learning and write functions for each of the models in that book using rust and just math. That's a future project though and might be grafted on here or might be a different repo.
